@@ -1,0 +1,12 @@
+name: NetworkBedFight
+version: 1.0-SNAPSHOT
+main: de.mixaghg.networkbedfight.NetworkBedFightPlugin
+api-version: '1.21'
+author: MixaGHG
+commands:
+  set:
+    description: Setzt Team-Spawns
+    usage: /set <team1|team2>
+  bedfightreset:
+    description: Resetet BedFight
+    usage: /bedfightreset

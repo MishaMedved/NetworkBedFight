@@ -1,0 +1,4 @@
+spawns: {}
+lobby-server-name: lobby
+selector-slot: 4
+max-players: 2
